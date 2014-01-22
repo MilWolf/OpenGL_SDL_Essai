@@ -1,0 +1,63 @@
+#ifndef MENU_H
+#define MENU_H
+
+
+#include <SDL.h>
+#include <stdio.h>
+#include <sstream>
+
+#include "Input.h"
+#include "SDL_ttf.h"
+#include "SDLTexte.h"
+#include "SDLImage.h"
+#include <vector>
+#include <thread>
+
+#include "SceneOpenGL.h"
+
+class Menu
+{
+public:
+	Menu();
+	~Menu();
+
+	void chargerMenuPrincipal();
+	void chargerMenuOptions();
+	void chargerMenuCredits();
+	void chargerMenuChargementPartie();
+	void commencerPartie();
+	void ecrireParametres();
+
+	bool estQuitte;
+
+private:
+	SDL_Window *screen;
+	Input input;
+	TTF_Font *font;
+	SDL_Surface* gScreenSurface;
+	
+	SDL_Surface *text_surface;
+	int largeurEcran;
+	int hauteurEcran;
+	int menu;
+	vector<SDLTexte*> *listeSDLTexteMenu0;
+	vector<SDLTexte*> *listeSDLTexteMenu1;
+	vector<SDLImage*> *listeSDLImageMenu1;
+	bool syncVCheck;
+	bool pleinEcranCheck;
+	bool flecheGaucheResOn;
+	bool flecheDroiteResOn;
+	bool flecheGaucheQualiteOn;
+	bool flecheDroiteQualiteOn;
+	bool charge;
+	vector<string> *listeResolution;
+	vector<string> *listeQualite;
+	int indexResolution;
+	int indexQualite;
+
+	
+
+	thread *first;
+};
+
+#endif

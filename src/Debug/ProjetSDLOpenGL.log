@@ -1,0 +1,33 @@
+﻿La génération a démarré 03/10/2013 18:39:30.
+     1>Projet "D:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\ProjetSDLOpenGL.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"D:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\include" /ZI /nologo /W4 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>d:\projets de programmation\visual studio 2012\cpp\testsdlopengl\src\main.cpp(6): warning C4100: 'argv' : paramètre formel non référencé
+     1>d:\projets de programmation\visual studio 2012\cpp\testsdlopengl\src\main.cpp(6): warning C4100: 'argc' : paramètre formel non référencé
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\Debug\ProjetSDLOpenGL.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\lib" SDL2.lib SDL2main.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\Debug\ProjetSDLOpenGL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\Debug\ProjetSDLOpenGL.lib" /MACHINE:X86 Debug\Main.obj
+     1>Main.obj : error LNK2019: symbole externe non résolu _SDL_GetError référencé dans la fonction _SDL_main
+     1>Main.obj : error LNK2019: symbole externe non résolu _SDL_CreateWindow référencé dans la fonction _SDL_main
+     1>Main.obj : error LNK2019: symbole externe non résolu _SDL_DestroyWindow référencé dans la fonction _SDL_main
+     1>Main.obj : error LNK2019: symbole externe non résolu _SDL_GL_SetAttribute référencé dans la fonction _SDL_main
+     1>Main.obj : error LNK2019: symbole externe non résolu _SDL_GL_CreateContext référencé dans la fonction _SDL_main
+     1>Main.obj : error LNK2019: symbole externe non résolu _SDL_GL_SwapWindow référencé dans la fonction _SDL_main
+     1>Main.obj : error LNK2019: symbole externe non résolu _SDL_GL_DeleteContext référencé dans la fonction _SDL_main
+     1>Main.obj : error LNK2019: symbole externe non résolu _SDL_WaitEvent référencé dans la fonction _SDL_main
+     1>Main.obj : error LNK2019: symbole externe non résolu _SDL_Init référencé dans la fonction _SDL_main
+     1>Main.obj : error LNK2019: symbole externe non résolu _SDL_Quit référencé dans la fonction _SDL_main
+     1>Main.obj : error LNK2019: symbole externe non résolu __imp__glClear@4 référencé dans la fonction _SDL_main
+     1>Main.obj : error LNK2019: symbole externe non résolu __imp__glDrawArrays@12 référencé dans la fonction _SDL_main
+     1>Main.obj : error LNK2019: symbole externe non résolu __imp__glewInit@0 référencé dans la fonction _SDL_main
+     1>Main.obj : error LNK2019: symbole externe non résolu __imp__glewGetErrorString@4 référencé dans la fonction _SDL_main
+     1>Main.obj : error LNK2001: symbole externe non résolu __imp____glewDisableVertexAttribArray
+     1>Main.obj : error LNK2001: symbole externe non résolu __imp____glewEnableVertexAttribArray
+     1>Main.obj : error LNK2001: symbole externe non résolu __imp____glewVertexAttribPointer
+     1>MSVCRT.lib(crtexew.obj) : error LNK2019: symbole externe non résolu _WinMain@16 référencé dans la fonction ___tmainCRTStartup
+     1>D:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\Debug\ProjetSDLOpenGL.exe : fatal error LNK1120: 18 externes non résolus
+     1>Génération du projet "D:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\ProjetSDLOpenGL.vcxproj" terminée (Build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:01.40

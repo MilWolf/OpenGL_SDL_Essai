@@ -1,0 +1,31 @@
+# Blender v2.67 (sub 0) OBJ File: ''
+# www.blender.org
+mtllib cube.mtl
+o Cube
+v 1.000000 -1.000000 -1.000000
+v 1.000000 -1.000000 1.000000
+v -1.000000 -1.000000 1.000000
+v -1.000000 -1.000000 -1.000000
+v 1.000000 1.000000 -0.999999
+v 0.999999 1.000000 1.000001
+v -1.000000 1.000000 1.000000
+v -1.000000 1.000000 -1.000000
+usemtl rouge
+s off
+f 2 6 3
+f 6 7 3
+usemtl vert
+f 1 5 6
+f 2 1 6
+usemtl bleufonce
+f 5 1 4
+f 8 5 4
+usemtl jaune
+f 3 7 4
+f 7 8 4
+usemtl rose
+f 5 8 7
+f 6 5 7
+usemtl bleuclair
+f 1 2 3
+f 4 1 3

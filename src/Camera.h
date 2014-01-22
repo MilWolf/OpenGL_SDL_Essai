@@ -1,0 +1,41 @@
+#include <glm/glm.hpp>
+#include <glm/gtx/transform.hpp>
+#include <glm/gtc/type_ptr.hpp>
+
+#define _USE_MATH_DEFINES
+#include <math.h>
+
+#include "Input.h"
+
+using namespace glm;
+
+class Camera
+{
+	public:
+		Camera();
+		Camera(vec3 position, vec3 pointCible, vec3 axeVertical);
+		~Camera();
+
+		void orienter(int xRel, int yRel);
+		void deplacer(Input const &input,int fps);
+		void lookAt(mat4 &modelview);
+		void setPointcible(vec3 pointCible);
+
+		vec3 getPosition();
+		vec3 getPointCible();
+		vec3 getAxeVertical();
+		vec3 getOrientation();
+		float getPhi();
+		float getTheta();
+
+	private:
+		float phi;
+		float theta;
+		vec3 orientation;
+		vec3 axeVertical;
+		vec3 deplacementLateral;
+		vec3 position;
+		vec3 pointCible;
+		
+};
+

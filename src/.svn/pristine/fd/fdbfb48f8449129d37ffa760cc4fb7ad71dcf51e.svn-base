@@ -1,0 +1,38 @@
+# Blender MTL File: 'New Tree Lod Packed.blend'
+# Material Count: 3
+
+newmtl Material
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.700000 0.700000 0.700000
+Ks 0.125000 0.109049 0.082094
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ks Tree Bark Tiled.png
+map_Kd Tree Bark Tiled.png
+map_Bump Tree Bark Nor2.png
+
+newmtl Material.001
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_d Tree Leaves.png
+map_Bump Tree Leaves Nor.png
+map_Kd Tree Leaves.png
+
+newmtl Material_Tree_Bark_Tiled.png
+Ns 27.450980
+Ka 0.000000 0.000000 0.000000
+Kd 0.700000 0.700000 0.700000
+Ks 0.125000 0.109049 0.082094
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Tree Bark Tiled.png
+map_Ks Tree Bark Tiled.png
+map_Bump Tree Bark Nor2.png

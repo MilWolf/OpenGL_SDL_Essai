@@ -1,0 +1,22 @@
+﻿La génération a démarré 03/10/2013 17:49:22.
+     1>Projet "D:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\ProjetSDLOpenGL.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"D:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\include" /Zi /nologo /W4 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>Main.cpp(4): warning C4100: 'argv' : paramètre formel non référencé
+     1>Main.cpp(4): warning C4100: 'argc' : paramètre formel non référencé
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\Release\ProjetSDLOpenGL.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"D:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\lib" SDL2.lib SDL2main.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\Release\ProjetSDLOpenGL.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\Release\ProjetSDLOpenGL.lib" /MACHINE:X86 /SAFESEH Release\Main.obj
+     1>Main.obj : error LNK2001: symbole externe non résolu _SDL_Init
+     1>Main.obj : error LNK2001: symbole externe non résolu _SDL_DestroyWindow
+     1>Main.obj : error LNK2001: symbole externe non résolu _SDL_CreateWindow
+     1>Main.obj : error LNK2001: symbole externe non résolu _SDL_Delay
+     1>Main.obj : error LNK2001: symbole externe non résolu _SDL_GetError
+     1>Main.obj : error LNK2001: symbole externe non résolu _SDL_Quit
+     1>MSVCRT.lib(crtexew.obj) : error LNK2001: symbole externe non résolu _WinMain@16
+     1>D:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\Release\ProjetSDLOpenGL.exe : fatal error LNK1120: 7 externes non résolus
+     1>Génération du projet "D:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\ProjetSDLOpenGL.vcxproj" terminée (Build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:00.38

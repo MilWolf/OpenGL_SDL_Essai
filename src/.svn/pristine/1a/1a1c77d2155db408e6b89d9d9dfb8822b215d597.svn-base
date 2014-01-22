@@ -1,0 +1,12 @@
+# Blender MTL File: 'ext_house01.blend'
+# Material Count: 1
+
+newmtl ext_house01
+Ns 115.686275
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ext_house01_col.jpg

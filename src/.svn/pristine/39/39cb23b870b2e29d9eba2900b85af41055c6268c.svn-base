@@ -1,0 +1,110 @@
+<scene previous_export_time="1382211279.540575" export_time="1382211408.810969" formatVersion="1.0.1" exported_by="Julien" >
+	<nodes >
+		<node name="baril.001" >
+			<position z="1.899099" y="1.728560" x="11.194484" />
+			<rotation qw="0.569860" qz="0.000000" qy="0.821742" qx="-0.000000" />
+			<scale z="1.352594" y="1.352594" x="1.352594" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity anisotropic_friction="False" name="Circle.003" inertia_tensor="0.4000000059604645" physics_type="STATIC" mass_radius="1.0" ghost="False" lock_rot_z="False" lock_rot_x="False" lock_rot_y="False" velocity_min="0.0" mass="1.0" lock_trans_y="False" lock_trans_x="False" damping_trans="0.03999999910593033" lock_trans_z="False" actor="False" damping_rot="0.10000000149011612" meshFile="Circle.003.mesh" velocity_max="0.0" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="baril" >
+			<position z="1.899099" y="-1.880247" x="9.289307" />
+			<rotation qw="0.191248" qz="0.000000" qy="-0.981542" qx="-0.000000" />
+			<scale z="1.352594" y="1.352594" x="1.352594" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity anisotropic_friction="False" name="Circle.001" inertia_tensor="0.4000000059604645" physics_type="STATIC" mass_radius="1.0" ghost="False" lock_rot_z="False" lock_rot_x="False" lock_rot_y="False" velocity_min="0.0" mass="1.0" lock_trans_y="False" lock_trans_x="False" damping_trans="0.03999999910593033" lock_trans_z="False" actor="False" damping_rot="0.10000000149011612" meshFile="Circle.001.mesh" velocity_max="0.0" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="maison" >
+			<position z="-35.188511" y="-0.000001" x="-24.927723" />
+			<rotation qw="0.706050" qz="0.000000" qy="-0.708162" qx="-0.000000" />
+			<scale z="1.000000" y="1.000000" x="1.000000" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity anisotropic_friction="False" name="House.007" inertia_tensor="0.4000000059604645" physics_type="STATIC" mass_radius="1.0" ghost="False" lock_rot_z="False" lock_rot_x="False" lock_rot_y="False" velocity_min="0.0" mass="1.0" lock_trans_y="False" lock_trans_x="False" damping_trans="0.03999999910593033" lock_trans_z="False" actor="False" damping_rot="0.10000000149011612" meshFile="House.007.mesh" velocity_max="0.0" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="maison.001" >
+			<position z="-18.508116" y="-0.000001" x="80.537590" />
+			<rotation qw="0.266557" qz="0.000000" qy="-0.963819" qx="-0.000000" />
+			<scale z="1.000000" y="1.000000" x="1.000000" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity anisotropic_friction="False" name="House.006" inertia_tensor="0.4000000059604645" physics_type="STATIC" mass_radius="1.0" ghost="False" lock_rot_z="False" lock_rot_x="False" lock_rot_y="False" velocity_min="0.0" mass="1.0" lock_trans_y="False" lock_trans_x="False" damping_trans="0.03999999910593033" lock_trans_z="False" actor="False" damping_rot="0.10000000149011612" meshFile="House.006.mesh" velocity_max="0.0" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="maison.002" >
+			<position z="-1.512321" y="0.000000" x="59.865887" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale z="1.000000" y="1.000000" x="1.000000" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity anisotropic_friction="False" name="House.005" inertia_tensor="0.4000000059604645" physics_type="STATIC" mass_radius="1.0" ghost="False" lock_rot_z="False" lock_rot_x="False" lock_rot_y="False" velocity_min="0.0" mass="1.0" lock_trans_y="False" lock_trans_x="False" damping_trans="0.03999999910593033" lock_trans_z="False" actor="False" damping_rot="0.10000000149011612" meshFile="House.005.mesh" velocity_max="0.0" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="barriere_beton" >
+			<position z="0.000000" y="-1.913329" x="31.008341" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale z="4.819575" y="4.819575" x="4.819575" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity anisotropic_friction="False" name="Cube.003" inertia_tensor="0.4000000059604645" physics_type="STATIC" mass_radius="1.0" ghost="False" lock_rot_z="False" lock_rot_x="False" lock_rot_y="False" velocity_min="0.0" mass="1.0" lock_trans_y="False" lock_trans_x="False" damping_trans="0.02539999969303608" lock_trans_z="False" actor="False" damping_rot="0.1589999943971634" meshFile="Cube.003.mesh" velocity_max="0.0" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="maison.003" >
+			<position z="0.000000" y="0.000000" x="-0.000000" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale z="1.000000" y="1.000000" x="1.000000" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity anisotropic_friction="False" name="House.004" inertia_tensor="0.4000000059604645" physics_type="STATIC" mass_radius="1.0" ghost="False" lock_rot_z="False" lock_rot_x="False" lock_rot_y="False" velocity_min="0.0" mass="1.0" lock_trans_y="False" lock_trans_x="False" damping_trans="0.03999999910593033" lock_trans_z="False" actor="False" damping_rot="0.10000000149011612" meshFile="House.004.mesh" velocity_max="0.0" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="moulin" >
+			<position z="-94.981590" y="-1.093065" x="27.539177" />
+			<rotation qw="0.702819" qz="0.000000" qy="0.711368" qx="-0.000000" />
+			<scale z="4.645491" y="4.645491" x="4.645491" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity anisotropic_friction="False" name="Circle" inertia_tensor="0.4000000059604645" physics_type="STATIC" mass_radius="1.0" ghost="False" lock_rot_z="False" lock_rot_x="False" lock_rot_y="False" velocity_min="0.0" mass="1.0" lock_trans_y="False" lock_trans_x="False" damping_trans="0.03999999910593033" lock_trans_z="False" actor="False" damping_rot="0.10000000149011612" meshFile="Circle.mesh" velocity_max="0.0" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="baril.002" >
+			<position z="1.899099" y="-1.880247" x="13.052813" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale z="1.352594" y="1.352594" x="1.352594" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity anisotropic_friction="False" name="Circle.002" inertia_tensor="0.4000000059604645" physics_type="STATIC" mass_radius="1.0" ghost="False" lock_rot_z="False" lock_rot_x="False" lock_rot_y="False" velocity_min="0.0" mass="1.0" lock_trans_y="False" lock_trans_x="False" damping_trans="0.03999999910593033" lock_trans_z="False" actor="False" damping_rot="0.10000000149011612" meshFile="Circle.002.mesh" velocity_max="0.0" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="maison2" >
+			<position z="-84.110985" y="-1.819683" x="-5.429327" />
+			<rotation qw="0.701034" qz="0.000000" qy="-0.713128" qx="-0.000000" />
+			<scale z="1.227018" y="1.227018" x="1.227018" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity anisotropic_friction="False" name="ext_house01" inertia_tensor="0.4000000059604645" physics_type="STATIC" mass_radius="1.0" ghost="False" lock_rot_z="False" lock_rot_x="False" lock_rot_y="False" velocity_min="0.0" mass="1.0" lock_trans_y="False" lock_trans_x="False" damping_trans="0.03999999910593033" lock_trans_z="False" actor="False" damping_rot="0.10000000149011612" meshFile="ext_house01.mesh" velocity_max="0.0" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+	</nodes>
+	<externals />
+	<environment >
+		<colourDiffuse g="0.5313589572906494" r="0.38734349608421326" b="0.5382142663002014" />
+		<colourBackground g="0.5313589572906494" r="0.38734349608421326" b="0.5382142663002014" />
+		<colourAmbient g="0.0" r="0.0" b="0.0" />
+	</environment>
+</scene>

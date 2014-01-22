@@ -1,0 +1,60 @@
+<scene formatVersion="1.0.1" exported_by="Julien" export_time="1382178713.59691" previous_export_time="1382175262.567522" >
+	<nodes >
+		<node name="maison4" >
+			<position z="-26.320877" x="13.711662" y="-0.000000" />
+			<rotation qz="0.000000" qx="-0.000000" qy="-0.972765" qw="0.231793" />
+			<scale z="1.000000" x="1.000000" y="1.000000" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity velocity_max="0.0" inertia_tensor="0.4000000059604645" friction_y="1.0" lock_trans_x="False" lock_trans_y="False" lock_trans_z="False" damping_trans="0.03999999910593033" lock_rot_x="False" mass="1.0" lock_rot_y="False" friction_z="1.0" lock_rot_z="False" friction_x="1.0" velocity_min="0.0" mass_radius="1.0" ghost="False" damping_rot="0.10000000149011612" physics_type="STATIC" meshFile="House.007.mesh" actor="False" name="House.007" anisotropic_friction="False" />
+		</node>
+		<node name="maison3" >
+			<position z="-23.703884" x="48.208378" y="0.000001" />
+			<rotation qz="0.000000" qx="-0.000000" qy="0.986003" qw="0.166725" />
+			<scale z="1.000000" x="1.000000" y="1.000000" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity velocity_max="0.0" inertia_tensor="0.4000000059604645" friction_y="1.0" lock_trans_x="False" lock_trans_y="False" lock_trans_z="False" damping_trans="0.03999999910593033" lock_rot_x="False" mass="1.0" lock_rot_y="False" friction_z="1.0" lock_rot_z="False" friction_x="1.0" velocity_min="0.0" mass_radius="1.0" ghost="False" damping_rot="0.10000000149011612" physics_type="STATIC" meshFile="House.006.mesh" actor="False" name="House.006" anisotropic_friction="False" />
+		</node>
+		<node name="maison2" >
+			<position z="-1.512321" x="59.865887" y="0.000000" />
+			<rotation qz="0.000000" qx="-0.000000" qy="0.000000" qw="1.000000" />
+			<scale z="1.000000" x="1.000000" y="1.000000" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity velocity_max="0.0" inertia_tensor="0.4000000059604645" friction_y="1.0" lock_trans_x="False" lock_trans_y="False" lock_trans_z="False" damping_trans="0.03999999910593033" lock_rot_x="False" mass="1.0" lock_rot_y="False" friction_z="1.0" lock_rot_z="False" friction_x="1.0" velocity_min="0.0" mass_radius="1.0" ghost="False" damping_rot="0.10000000149011612" physics_type="STATIC" meshFile="House.005.mesh" actor="False" name="House.005" anisotropic_friction="False" />
+		</node>
+		<node name="barriere_beton" >
+			<position z="0.000000" x="31.008341" y="-1.913329" />
+			<rotation qz="0.000000" qx="-0.000000" qy="0.000000" qw="1.000000" />
+			<scale z="4.819575" x="4.819575" y="4.819575" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity velocity_max="0.0" inertia_tensor="0.4000000059604645" friction_y="1.0" lock_trans_x="False" lock_trans_y="False" lock_trans_z="False" damping_trans="0.02539999969303608" lock_rot_x="False" mass="1.0" lock_rot_y="False" friction_z="1.0" lock_rot_z="False" friction_x="1.0" velocity_min="0.0" mass_radius="1.0" ghost="False" damping_rot="0.1589999943971634" physics_type="STATIC" meshFile="Cube.003.mesh" actor="False" name="Cube.003" anisotropic_friction="False" />
+		</node>
+		<node name="maison1" >
+			<position z="0.000000" x="-0.000000" y="0.000000" />
+			<rotation qz="0.000000" qx="-0.000000" qy="0.000000" qw="1.000000" />
+			<scale z="1.000000" x="1.000000" y="1.000000" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity velocity_max="0.0" inertia_tensor="0.4000000059604645" friction_y="1.0" lock_trans_x="False" lock_trans_y="False" lock_trans_z="False" damping_trans="0.03999999910593033" lock_rot_x="False" mass="1.0" lock_rot_y="False" friction_z="1.0" lock_rot_z="False" friction_x="1.0" velocity_min="0.0" mass_radius="1.0" ghost="False" damping_rot="0.10000000149011612" physics_type="STATIC" meshFile="House.004.mesh" actor="False" name="House.004" anisotropic_friction="False" />
+		</node>
+	</nodes>
+	<externals />
+	<environment >
+		<colourDiffuse r="0.38734349608421326" b="0.5382142663002014" g="0.5313589572906494" />
+		<colourAmbient r="0.0" b="0.0" g="0.0" />
+		<colourBackground r="0.38734349608421326" b="0.5382142663002014" g="0.5313589572906494" />
+	</environment>
+</scene>

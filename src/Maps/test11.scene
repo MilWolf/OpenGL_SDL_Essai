@@ -1,0 +1,740 @@
+<scene export_time="1384109255.674742" exported_by="Julien" previous_export_time="1384107739.162002" formatVersion="1.0.1" >
+	<nodes >
+		<node name="sapin.047" >
+			<position y="-0.552215" x="-189.694946" z="-93.934517" />
+			<rotation qw="0.833038" qz="0.000000" qy="0.553216" qx="-0.000000" />
+			<scale y="6.351711" x="6.351712" z="6.351712" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.047.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.047" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.046" >
+			<position y="-0.552215" x="-144.081924" z="-168.799011" />
+			<rotation qw="0.833038" qz="0.000000" qy="0.553216" qx="-0.000000" />
+			<scale y="6.351711" x="6.351712" z="6.351712" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.046.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.046" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.045" >
+			<position y="-0.790237" x="-214.430496" z="-136.035995" />
+			<rotation qw="0.531573" qz="0.000000" qy="0.847012" qx="-0.000000" />
+			<scale y="6.351711" x="6.351712" z="6.351712" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.045.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.045" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.044" >
+			<position y="-0.552215" x="-180.036575" z="-120.977966" />
+			<rotation qw="0.833038" qz="0.000000" qy="0.553216" qx="-0.000000" />
+			<scale y="6.351711" x="6.351712" z="6.351712" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.044.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.044" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.043" >
+			<position y="-0.552215" x="-150.842789" z="-140.306808" />
+			<rotation qw="0.833038" qz="0.000000" qy="0.553216" qx="-0.000000" />
+			<scale y="6.351711" x="6.351712" z="6.351712" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.043.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.043" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.042" >
+			<position y="-0.552215" x="-181.542877" z="-153.057144" />
+			<rotation qw="0.739477" qz="0.000000" qy="0.673182" qx="-0.000000" />
+			<scale y="6.351711" x="6.351712" z="6.351712" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.042.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.042" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.041" >
+			<position y="-0.552215" x="-129.554199" z="-83.927231" />
+			<rotation qw="0.854186" qz="0.000000" qy="-0.519968" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.041.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.041" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.040" >
+			<position y="-0.552215" x="-99.613235" z="-35.152439" />
+			<rotation qw="0.854186" qz="0.000000" qy="-0.519968" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.040.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.040" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.039" >
+			<position y="-0.552215" x="-150.319702" z="18.934460" />
+			<rotation qw="0.854186" qz="0.000000" qy="-0.519968" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.039.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.039" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.038" >
+			<position y="-0.552215" x="-92.369446" z="19.417379" />
+			<rotation qw="0.854186" qz="0.000000" qy="-0.519968" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.038.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.038" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.037" >
+			<position y="-0.552215" x="-99.130302" z="123.727814" />
+			<rotation qw="0.963889" qz="0.000000" qy="-0.266305" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.037.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.037" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.036" >
+			<position y="-0.552215" x="-75.467285" z="93.303940" />
+			<rotation qw="0.963889" qz="0.000000" qy="-0.266305" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.036.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.036" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.035" >
+			<position y="-0.552215" x="-28.141247" z="103.445236" />
+			<rotation qw="0.963889" qz="0.000000" qy="-0.266305" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.035.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.035" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.034" >
+			<position y="-0.552215" x="-16.273464" z="138.572189" />
+			<rotation qw="0.585002" qz="0.000000" qy="0.811032" qx="-0.000000" />
+			<scale y="6.351711" x="6.351712" z="6.351712" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.034.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.034" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.033" >
+			<position y="-0.552215" x="-60.967079" z="120.590263" />
+			<rotation qw="0.807621" qz="0.000000" qy="-0.589702" qx="-0.000000" />
+			<scale y="6.351711" x="6.351710" z="6.351710" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.033.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.033" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.032" >
+			<position y="-0.552215" x="-16.551197" z="76.401794" />
+			<rotation qw="0.963889" qz="0.000000" qy="-0.266305" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.032.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.032" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.031" >
+			<position y="-0.790237" x="-30.515978" z="51.544666" />
+			<rotation qw="0.811224" qz="0.000000" qy="-0.584735" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.031.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.031" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.030" >
+			<position y="-0.552215" x="-61.996971" z="32.395378" />
+			<rotation qw="0.488621" qz="0.000000" qy="-0.872496" qx="-0.000000" />
+			<scale y="6.351711" x="6.351712" z="6.351712" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.030.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.030" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.029" >
+			<position y="-0.552215" x="-106.502319" z="89.921921" />
+			<rotation qw="0.967369" qz="0.000000" qy="-0.253372" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.029.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.029" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.028" >
+			<position y="-0.552215" x="-119.717789" z="37.146912" />
+			<rotation qw="0.860490" qz="0.000000" qy="0.509468" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.028.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.028" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.027" >
+			<position y="-0.790237" x="-88.545151" z="57.746025" />
+			<rotation qw="0.983921" qz="0.000000" qy="0.178606" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.027.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.027" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.026" >
+			<position y="-0.552215" x="-61.526951" z="72.656784" />
+			<rotation qw="0.247749" qz="0.000000" qy="0.968824" qx="-0.000000" />
+			<scale y="6.351711" x="6.351712" z="6.351712" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.026.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.026" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.025" >
+			<position y="-0.552215" x="-117.016403" z="66.943367" />
+			<rotation qw="0.247749" qz="0.000000" qy="0.968824" qx="-0.000000" />
+			<scale y="6.351711" x="6.351712" z="6.351712" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.025.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.025" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.024" >
+			<position y="-0.790237" x="-144.034607" z="52.032600" />
+			<rotation qw="0.983921" qz="0.000000" qy="0.178606" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.024.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.024" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.023" >
+			<position y="-0.552215" x="-76.108551" z="-38.602139" />
+			<rotation qw="0.647961" qz="0.000000" qy="0.761674" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.023.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.023" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.022" >
+			<position y="-0.552215" x="-90.596863" z="-6.727856" />
+			<rotation qw="0.647961" qz="0.000000" qy="0.761674" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.022.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.022" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.021" >
+			<position y="-0.790237" x="-126.948395" z="-0.701714" />
+			<rotation qw="0.265932" qz="0.000000" qy="0.963992" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.021.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.021" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.020" >
+			<position y="-0.552215" x="-132.139832" z="-31.121502" />
+			<rotation qw="0.765424" qz="0.000000" qy="-0.643527" qx="-0.000000" />
+			<scale y="6.351711" x="6.351712" z="6.351712" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.020.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.020" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.019" >
+			<position y="-0.552215" x="-162.275513" z="-78.063629" />
+			<rotation qw="0.765424" qz="0.000000" qy="-0.643527" qx="-0.000000" />
+			<scale y="6.351711" x="6.351712" z="6.351712" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.019.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.019" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.018" >
+			<position y="-0.790237" x="-157.084076" z="-47.643841" />
+			<rotation qw="0.265932" qz="0.000000" qy="0.963992" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.018.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.018" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.017" >
+			<position y="-0.552215" x="-153.748932" z="-10.429157" />
+			<rotation qw="0.085720" qz="0.000000" qy="-0.996319" qx="-0.000000" />
+			<scale y="6.351711" x="6.351713" z="6.351713" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.017.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.017" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.016" >
+			<position y="-0.552215" x="-148.158417" z="-110.104050" />
+			<rotation qw="0.765424" qz="0.000000" qy="-0.643527" qx="-0.000000" />
+			<scale y="6.351711" x="6.351712" z="6.351712" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.016.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.016" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.015" >
+			<position y="-0.552215" x="-120.732544" z="-53.669983" />
+			<rotation qw="0.647961" qz="0.000000" qy="0.761674" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.015.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.015" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="barriere_bois1.008" >
+			<position y="1.363892" x="-38.597881" z="-95.970047" />
+			<rotation qw="-0.000000" qz="-0.000000" qy="0.996815" qx="0.079749" />
+			<scale y="4.346899" x="4.346899" z="4.346899" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Cube.018.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Cube.018" damping_trans="0.02539999969303608" damping_rot="0.1589999943971634" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="barriere_bois2.008" >
+			<position y="3.408115" x="-46.689976" z="-95.964676" />
+			<rotation qw="-0.000000" qz="-0.000000" qy="0.993491" qx="0.113911" />
+			<scale y="4.346899" x="4.346900" z="4.346900" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Cube.017.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Cube.017" damping_trans="0.02539999969303608" damping_rot="0.1589999943971634" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="barriere_bois2.007" >
+			<position y="0.296544" x="-30.636078" z="-95.964676" />
+			<rotation qw="-0.000000" qz="-0.000000" qy="0.994158" qx="0.107933" />
+			<scale y="4.346899" x="4.346897" z="4.346897" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Cube.016.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Cube.016" damping_trans="0.02539999969303608" damping_rot="0.1589999943971634" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="barriere_bois1.007" >
+			<position y="-0.704194" x="-22.065693" z="-95.970047" />
+			<rotation qw="-0.000000" qz="0.000000" qy="1.000000" qx="-0.000000" />
+			<scale y="4.346899" x="4.346899" z="4.346899" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Cube.015.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Cube.015" damping_trans="0.02539999969303608" damping_rot="0.1589999943971634" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="barriere_bois1.006" >
+			<position y="0.219685" x="-17.666716" z="-68.039856" />
+			<rotation qw="0.707107" qz="0.000000" qy="0.707107" qx="-0.000000" />
+			<scale y="4.346899" x="4.346899" z="4.346899" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Cube.014.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Cube.014" damping_trans="0.02539999969303608" damping_rot="0.1589999943971634" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="barriere_bois2.005" >
+			<position y="0.219685" x="-17.672087" z="-92.664139" />
+			<rotation qw="0.707107" qz="0.000000" qy="0.707107" qx="-0.000000" />
+			<scale y="4.346899" x="4.346899" z="4.346899" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Cube.011.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Cube.011" damping_trans="0.02539999969303608" damping_rot="0.1589999943971634" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="barriere_bois1.005" >
+			<position y="0.219685" x="-17.666716" z="-84.391068" />
+			<rotation qw="0.707107" qz="0.000000" qy="0.707107" qx="-0.000000" />
+			<scale y="4.346899" x="4.346899" z="4.346899" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Cube.010.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Cube.010" damping_trans="0.02539999969303608" damping_rot="0.1589999943971634" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="barriere_bois1.004" >
+			<position y="0.219685" x="-50.237778" z="-68.271423" />
+			<rotation qw="0.707107" qz="0.000000" qy="0.707107" qx="-0.000000" />
+			<scale y="4.346899" x="4.346899" z="4.346899" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Cube.009.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Cube.009" damping_trans="0.02539999969303608" damping_rot="0.1589999943971634" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="barriere_bois2.004" >
+			<position y="-0.092782" x="-50.243149" z="-75.986610" />
+			<rotation qw="0.707107" qz="0.000000" qy="0.707107" qx="-0.000000" />
+			<scale y="4.346899" x="4.346899" z="4.346899" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Cube.008.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Cube.008" damping_trans="0.02539999969303608" damping_rot="0.1589999943971634" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="barriere_bois2.003" >
+			<position y="3.142420" x="-50.243149" z="-92.686523" />
+			<rotation qw="0.704483" qz="0.060861" qy="0.704483" qx="0.060861" />
+			<scale y="4.346899" x="4.346899" z="4.346899" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Cube.007.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Cube.007" damping_trans="0.02539999969303608" damping_rot="0.1589999943971634" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="barriere_bois1.003" >
+			<position y="1.692243" x="-50.237778" z="-84.622635" />
+			<rotation qw="0.703342" qz="0.072873" qy="0.703342" qx="0.072873" />
+			<scale y="4.346899" x="4.346899" z="4.346899" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Cube.006.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Cube.006" damping_trans="0.02539999969303608" damping_rot="0.1589999943971634" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="barriere_bois1.002" >
+			<position y="0.219685" x="-29.831394" z="-64.148247" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale y="4.346899" x="4.346899" z="4.346899" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Cube.005.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Cube.005" damping_trans="0.02539999969303608" damping_rot="0.1589999943971634" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="barriere_bois2.002" >
+			<position y="0.219685" x="-21.558319" z="-64.153618" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale y="4.346899" x="4.346899" z="4.346899" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Cube.004.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Cube.004" damping_trans="0.02539999969303608" damping_rot="0.1589999943971634" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="barriere_bois2.001" >
+			<position y="0.219685" x="-37.909531" z="-64.153618" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale y="4.346899" x="4.346899" z="4.346899" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Cube.002.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Cube.002" damping_trans="0.02539999969303608" damping_rot="0.1589999943971634" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="barriere_bois1.001" >
+			<position y="0.219685" x="-46.182610" z="-64.148247" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale y="4.346899" x="4.346899" z="4.346899" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Cube.001.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Cube.001" damping_trans="0.02539999969303608" damping_rot="0.1589999943971634" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.013" >
+			<position y="-0.070641" x="-22.550613" z="-115.538528" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.013.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.013" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.012" >
+			<position y="-0.552215" x="-19.647945" z="-164.883896" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.012.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.012" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.011" >
+			<position y="-0.552215" x="-48.190857" z="-173.591904" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.011.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.011" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.010" >
+			<position y="-0.552215" x="-88.828224" z="-172.140564" />
+			<rotation qw="0.956012" qz="0.000000" qy="0.293326" qx="-0.000000" />
+			<scale y="6.351711" x="6.351712" z="6.351712" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.010.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.010" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.009" >
+			<position y="-0.552215" x="-113.984688" z="-153.273209" />
+			<rotation qw="0.996800" qz="0.000000" qy="0.079933" qx="-0.000000" />
+			<scale y="6.351711" x="6.351712" z="6.351712" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.009.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.009" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.008" >
+			<position y="-0.790237" x="-116.394119" z="-122.300240" />
+			<rotation qw="0.962431" qz="0.000000" qy="-0.271526" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.008.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.008" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.007" >
+			<position y="-0.552215" x="-106.244232" z="-85.544266" />
+			<rotation qw="0.647961" qz="0.000000" qy="0.761674" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.007.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.007" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.006" >
+			<position y="-0.552215" x="-75.766212" z="-71.998474" />
+			<rotation qw="0.031067" qz="0.000000" qy="-0.999517" qx="-0.000000" />
+			<scale y="6.351711" x="6.351710" z="6.351710" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.006.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.006" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.005" >
+			<position y="4.916800" x="-67.058205" z="-148.435425" />
+			<rotation qw="0.899202" qz="0.000000" qy="0.437534" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.005.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.005" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.004" >
+			<position y="-0.552215" x="-90.763336" z="-131.503189" />
+			<rotation qw="0.873600" qz="0.000000" qy="-0.486644" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.004.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.004" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.003" >
+			<position y="5.874374" x="-77.217545" z="-102.476501" />
+			<rotation qw="0.974774" qz="0.000000" qy="0.223194" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.003.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.003" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.002" >
+			<position y="7.793782" x="-50.609745" z="-114.570953" />
+			<rotation qw="0.901307" qz="0.000000" qy="-0.433182" qx="-0.000000" />
+			<scale y="6.351711" x="6.351710" z="6.351710" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.002.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.002" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin.001" >
+			<position y="-0.552215" x="-23.034391" z="-143.113861" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale y="6.351711" x="6.351711" z="6.351711" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.000.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.000" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="baril.001" >
+			<position y="3.832881" x="10.194484" z="1.899099" />
+			<rotation qw="0.569860" qz="0.000000" qy="0.821742" qx="-0.000000" />
+			<scale y="1.352594" x="1.352594" z="1.352594" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Circle.003.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Circle.003" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="baril" >
+			<position y="0.224074" x="8.289307" z="1.899099" />
+			<rotation qw="0.191248" qz="0.000000" qy="-0.981542" qx="-0.000000" />
+			<scale y="1.352594" x="1.352594" z="1.352594" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Circle.001.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Circle.001" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="maison.005" >
+			<position y="2.104320" x="-10.930600" z="-33.253395" />
+			<rotation qw="0.720292" qz="0.000000" qy="-0.693671" qx="-0.000000" />
+			<scale y="1.000000" x="1.000000" z="1.000000" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="House.007.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="House.007" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="maison.001" >
+			<position y="2.104321" x="79.537590" z="-18.508116" />
+			<rotation qw="0.266557" qz="0.000000" qy="-0.963819" qx="-0.000000" />
+			<scale y="1.000000" x="1.000000" z="1.000000" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="House.006.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="House.006" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="maison.002" >
+			<position y="2.104321" x="58.865887" z="-1.512321" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale y="1.000000" x="1.000000" z="1.000000" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="House.005.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="House.005" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="barriere_beton" >
+			<position y="0.190992" x="30.008341" z="0.000000" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale y="4.819575" x="4.819575" z="4.819575" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Cube.003.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Cube.003" damping_trans="0.02539999969303608" damping_rot="0.1589999943971634" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="maison.003" >
+			<position y="2.104321" x="-1.000000" z="0.000000" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale y="1.000000" x="1.000000" z="1.000000" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="House.004.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="House.004" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="moulin.001" >
+			<position y="24.631414" x="98.670822" z="-124.748634" />
+			<rotation qw="0.702819" qz="0.000000" qy="0.711368" qx="-0.000000" />
+			<scale y="4.645491" x="4.645491" z="4.645491" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Circle.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Circle" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="baril.002" >
+			<position y="0.224074" x="12.052813" z="1.899099" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale y="1.352594" x="1.352594" z="1.352594" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Circle.002.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Circle.002" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="maison2.001" >
+			<position y="0.284638" x="-37.625462" z="-81.416870" />
+			<rotation qw="0.701034" qz="0.000000" qy="-0.713128" qx="-0.000000" />
+			<scale y="1.227018" x="1.227018" z="1.227018" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="ext_house01.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="ext_house01" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="terrain" >
+			<position y="0.000000" x="-0.000000" z="0.000000" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale y="1.000000" x="1.000000" z="1.000000" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="Plane.002.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="Plane.002" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+		<node name="sapin" >
+			<position y="-0.552212" x="12.604494" z="-50.228504" />
+			<rotation qw="1.000000" qz="0.000000" qy="0.000000" qx="-0.000000" />
+			<scale y="8.611141" x="8.611141" z="8.611141" />
+			<game >
+				<sensors />
+				<actuators />
+			</game>
+			<entity lock_trans_y="False" lock_trans_x="False" mass="1.0" lock_trans_z="False" velocity_min="0.0" velocity_max="0.0" inertia_tensor="0.4000000059604645" lock_rot_y="False" meshFile="tree pine joined.001.mesh" ghost="False" mass_radius="1.0" actor="False" physics_type="STATIC" anisotropic_friction="False" lock_rot_x="False" name="tree pine joined.001" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" lock_rot_z="False" friction_z="1.0" friction_y="1.0" friction_x="1.0" />
+		</node>
+	</nodes>
+	<externals />
+	<environment >
+		<colourAmbient r="0.0" b="0.0" g="0.0" />
+		<colourBackground r="0.38734349608421326" b="0.5382142663002014" g="0.5313589572906494" />
+		<colourDiffuse r="0.38734349608421326" b="0.5382142663002014" g="0.5313589572906494" />
+	</environment>
+</scene>

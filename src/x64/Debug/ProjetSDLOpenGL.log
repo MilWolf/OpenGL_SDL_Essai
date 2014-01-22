@@ -1,0 +1,77 @@
+﻿La génération a démarré 22/01/2014 21:01:59.
+     1>Projet "E:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\ProjetSDLOpenGL.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I"E:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\include" /Zi /nologo /W4 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt Menu.cpp
+         Menu.cpp
+     1>e:\projets de programmation\visual studio 2012\cpp\testsdlopengl\include\glm\core\type_vec2.hpp(77): warning C4201: extension non standard utilisée : struct/union sans nom
+                 e:\projets de programmation\visual studio 2012\cpp\testsdlopengl\include\glm\core\type_vec2.hpp(222) : voir la référence à l'instanciation de la classe modèle 'glm::detail::tvec2<T>' en cours de compilation
+     1>e:\projets de programmation\visual studio 2012\cpp\testsdlopengl\include\glm\core\type_vec2.hpp(78): warning C4201: extension non standard utilisée : struct/union sans nom
+     1>e:\projets de programmation\visual studio 2012\cpp\testsdlopengl\include\glm\core\type_vec2.hpp(79): warning C4201: extension non standard utilisée : struct/union sans nom
+     1>e:\projets de programmation\visual studio 2012\cpp\testsdlopengl\include\glm\core\type_vec3.hpp(77): warning C4201: extension non standard utilisée : struct/union sans nom
+                 e:\projets de programmation\visual studio 2012\cpp\testsdlopengl\include\glm\core\type_vec3.hpp(247) : voir la référence à l'instanciation de la classe modèle 'glm::detail::tvec3<T>' en cours de compilation
+     1>e:\projets de programmation\visual studio 2012\cpp\testsdlopengl\include\glm\core\type_vec3.hpp(78): warning C4201: extension non standard utilisée : struct/union sans nom
+     1>e:\projets de programmation\visual studio 2012\cpp\testsdlopengl\include\glm\core\type_vec3.hpp(79): warning C4201: extension non standard utilisée : struct/union sans nom
+     1>e:\projets de programmation\visual studio 2012\cpp\testsdlopengl\include\glm\core\type_vec4.hpp(77): warning C4201: extension non standard utilisée : struct/union sans nom
+                 e:\projets de programmation\visual studio 2012\cpp\testsdlopengl\include\glm\core\type_vec4.hpp(303) : voir la référence à l'instanciation de la classe modèle 'glm::detail::tvec4<T>' en cours de compilation
+     1>e:\projets de programmation\visual studio 2012\cpp\testsdlopengl\include\glm\core\type_vec4.hpp(78): warning C4201: extension non standard utilisée : struct/union sans nom
+     1>e:\projets de programmation\visual studio 2012\cpp\testsdlopengl\include\glm\core\type_vec4.hpp(79): warning C4201: extension non standard utilisée : struct/union sans nom
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\math.h(631): warning C4005: 'M_PI' : redéfinition de macro
+                 e:\projets de programmation\visual studio 2012\cpp\testsdlopengl\include\SDL_stdinc.h(339) : voir la définition précédente de 'M_PI'
+     1>Menu.cpp(7): warning C4005: 'SDL_HINT_RENDER_VSYNC' : redéfinition de macro
+                 e:\projets de programmation\visual studio 2012\cpp\testsdlopengl\include\SDL_hints.h(118) : voir la définition précédente de 'SDL_HINT_RENDER_VSYNC'
+     1>Menu.cpp(106): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(112): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(118): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(124): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(130): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(248): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(249): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(255): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(256): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(262): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(263): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(269): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(270): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(276): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(277): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(283): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(284): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(291): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(296): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(297): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(303): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(309): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(315): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(320): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(321): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(327): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(332): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(333): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+     1>Menu.cpp(393): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+     1>Menu.cpp(473): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+     1>Menu.cpp(533): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+     1>Menu.cpp(400): warning C4189: 't' : variable locale initialisée mais non référencée
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\x64\Debug\ProjetSDLOpenGL.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\lib" SDL2.lib SDL2main.lib glew32.lib glew32s.lib opengl32.lib SDL2_image.lib tinyxml2.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\x64\Debug\ProjetSDLOpenGL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\x64\Debug\ProjetSDLOpenGL.lib" /MACHINE:X64 x64\Debug\ProjetSDLOpenGL.res
+         x64\Debug\Camera.obj
+         x64\Debug\HUD.obj
+         x64\Debug\Input.obj
+         x64\Debug\ItemHUD.obj
+         x64\Debug\Main.obj
+         x64\Debug\MapLoader.obj
+         x64\Debug\Material.obj
+         x64\Debug\Menu.obj
+         x64\Debug\Mesh.obj
+         x64\Debug\ObjLoader.obj
+         x64\Debug\SceneOpenGL.obj
+         x64\Debug\SDLImage.obj
+         x64\Debug\SDLTexte.obj
+         x64\Debug\Shader.obj
+         x64\Debug\TexMat.obj
+         x64\Debug\Texture.obj
+         ProjetSDLOpenGL.vcxproj -> E:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\x64\Debug\ProjetSDLOpenGL.exe
+     1>Génération du projet "E:\Projets de programmation\Visual studio 2012\cpp\testSDLOpenGL\src\ProjetSDLOpenGL.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:02.03

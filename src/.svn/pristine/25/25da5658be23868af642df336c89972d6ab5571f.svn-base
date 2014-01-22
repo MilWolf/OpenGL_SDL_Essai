@@ -1,0 +1,23 @@
+#include <glm/glm.hpp>
+#include <glm/gtx/transform.hpp>
+#include <glm/gtc/type_ptr.hpp>
+
+#include "Shader.h"
+#include "Texture.h"
+#include "TexMat.h"
+
+using namespace glm;
+
+class ItemHUD
+{
+public:
+	ItemHUD();
+	~ItemHUD();
+
+	void afficher(mat4 &projection, mat4 &modelview);
+	void updateVBO(void *donnees, int tailleBytes, int decalage);
+	void charger(string texture);
+private:
+
+};
+
